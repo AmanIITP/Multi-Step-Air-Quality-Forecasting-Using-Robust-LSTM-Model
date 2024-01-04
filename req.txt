@@ -1,0 +1,27 @@
+##Versions Recemmonded:-
+
+NumPy version: 1.23.5
+Pandas version: 2.0.3
+Statsmodels version: 0.14.0
+TensorFlow version: 2.12.0
+
+##Libraries & Modules Required:-
+
+NumPy:          Used for numerical operations on arrays.
+Pandas:         Provides data structures and data analysis tools.
+Matplotlib:     A plotting library for creating visualizations.
+Statsmodels:    Offers classes and functions for statistical analysis.
+Scikit-learn:   A machine learning library with various tools for ML.
+MAE and MSE:    Metrics for evaluating regression models.
+MinMaxScaler:   A module for scaling numerical features to a specific range.
+TensorFlow:     An open-source machine learning framework developed by Google.
+Sequential:     A Keras API for creating sequential models in TensorFlow.
+Dense:          A Keras layer for fully connected neural network layers.
+LSTM:           A Keras layer for Long Short-Term Memory units
+Activation:     A Keras layer for specifying the activation function of a NN layer.
+LabelEncoder:   A module for converting categorical labels into numerical format.
+Array & Hstack: NumPy functions for array manipulation.
+Keras:          A high-level neural networks API running on top of TensorFlow.
+
+
+
